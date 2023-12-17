@@ -8,12 +8,12 @@ lightdark = '$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft\|)1]?-_+~<>i!lI;:,"^`.....
 #default resolution 128
 #blackwhite 64
 resolutionwidth=70
-URL=r"E:/Visual/Random tools/image to text output.txt"
+URL=r"                    "
 
 txtout = open(URL,"w")
 len=len(lightdark)
 
-URL = r"E:\Visual\material\image to text.png"
+URL = r"                    "
 fimg = Image.open(URL)
 fimg = fimg.convert("L")
 
